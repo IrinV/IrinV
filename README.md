@@ -1,4 +1,3 @@
-# Iryna_Volobuieva
 Hi there! I'm Iryna Volobuieva.
 And I'm a Junior Software Tester with strong attention to detail. 
 
