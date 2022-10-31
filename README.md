@@ -1,7 +1,9 @@
 # Iryna_Volobuieva
 Hi there! I'm Iryna Volobuieva.
-
-Young and ambitious QA engineer. I 
+And I'm a Junior Software Tester with strong attention to detail. Since I started testing, I learned how important it is to be meticulous and a team player.
+ I like new challenges, which made me want to learn more and more about this domain and improve my skills daily. My objective is to excel in 
+a challenging and innovative QA work environment and aim to exercise my full potential. That’s why I am looking for o company that will give me 
+a chance to learn and develop myself as a Software Tester.
 
 <div id="header" align="center">
   <img src= "https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" width="360"/>
