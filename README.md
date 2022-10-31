@@ -1,6 +1,6 @@
 # Iryna_Volobuieva
 Hi there! I'm Iryna Volobuieva.
-And I'm a Junior Software Tester with strong attention to detail. S
+And I'm a Junior Software Tester with strong attention to detail. 
 
 <div id="header" align="center">
   <img src= "https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" width="360"/>
